@@ -1,0 +1,5 @@
+{
+  "name": "thuglife-bot/thug-life",
+  "timeout": 10000,
+  "connector": false
+}
